@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# DataGrid for DevExtreme - How to obtain all filtered and sorted rows
+# DevExtreme DataGrid - How to obtain all filtered and sorted rows
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/542606441/)**
 <!-- run online end -->
@@ -15,7 +15,7 @@ To test this functionality, you can filter or sort data in the UI and press "Get
 
 To implement this functionality, access a bound Store object and pass [loadOptions](https://js.devexpress.com/Documentation/ApiReference/Data_Layer/DataSource/Methods/#loadOptions) along with the [combined filtering expression](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxDataGrid/Methods/#getCombinedFilterreturnDataField) to its load() method. 
 
-## Files to Look At
+## Files to Review
 
 - **jQuery**
     - [src.js](jQuery/src/src.js)
