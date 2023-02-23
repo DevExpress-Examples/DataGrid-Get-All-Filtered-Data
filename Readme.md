@@ -5,15 +5,14 @@
 <!-- default badges end -->
 
 # DevExtreme DataGrid - How to obtain all filtered and sorted rows
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/542606441/)**
-<!-- run online end -->
 
 This example demonstrates how to obtain all filtered and sorted rows from the DataGrid component.
 
 To test this functionality, you can filter or sort data in the UI and press "Get All Filtered And Sorted Data". See results in the second grid.
 
 To implement this functionality, access a bound Store object and pass [loadOptions](https://js.devexpress.com/Documentation/ApiReference/Data_Layer/DataSource/Methods/#loadOptions) along with the [combined filtering expression](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxDataGrid/Methods/#getCombinedFilterreturnDataField) to its load() method. 
+
+<div align="center"><img alt="DevExtreme DataGrid - How to obtain all filtered and sorted rows" src="datagrid-filtered-data.png" /></div>
 
 ## Files to Review
 
