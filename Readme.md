@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# DevExtreme DataGrid - How to obtain all filtered and sorted rows
+# DataGrid for DevExtreme - How to obtain all filtered and sorted rows
 
 This example demonstrates how to obtain all filtered and sorted rows from the DataGrid component.
 
