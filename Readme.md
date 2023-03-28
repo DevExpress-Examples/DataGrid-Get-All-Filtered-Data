@@ -5,6 +5,9 @@
 <!-- default badges end -->
 
 # DataGrid for DevExtreme - How to obtain all filtered and sorted rows
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/542606441/)**
+<!-- run online end -->
 
 This example demonstrates how to obtain all filtered and sorted rows from the DataGrid component.
 
